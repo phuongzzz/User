@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"HTML5",
 		"Material Theme",
 		"Package Control"
 	]
