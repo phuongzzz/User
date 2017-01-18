@@ -2,6 +2,8 @@
 	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
 	"font_face": "PragmataPro",
 	"font_size": 13,
+	"translate_tabs_to_spaces": true,
+
 	"ignored_packages":
 	[
 	],
