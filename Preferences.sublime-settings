@@ -2,7 +2,6 @@
 	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
 	"font_face": "PragmataPro",
 	"font_size": 13,
-	"vintage_lines.force_mode": true,
 	"ignored_packages":
 	[
 	],
@@ -12,5 +11,6 @@
 	"material_theme_bullet_tree_indicator": true,
 	"overlay_scroll_bars": "enabled",
 	"theme": "Material-Theme-Darker.sublime-theme",
-	"translate_tabs_to_spaces": true
+	"translate_tabs_to_spaces": true,
+	"vintage_lines.force_mode": true
 }

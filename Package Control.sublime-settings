@@ -5,10 +5,12 @@
 	],
 	"installed_packages":
 	[
+		"Color Highlighter",
 		"Haml",
 		"HTML5",
 		"Material Theme",
 		"Package Control",
+		"SCSS",
 		"VintageLines"
 	]
 }
