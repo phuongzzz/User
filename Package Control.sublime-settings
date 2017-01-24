@@ -5,13 +5,16 @@
 	],
 	"installed_packages":
 	[
+		"Bootstrap 3 Autocomplete",
 		"Color Highlighter",
 		"File Rename",
 		"Haml",
 		"HTML5",
 		"Material Theme",
 		"Package Control",
+		"Rails Developer Snippets",
 		"SCSS",
+		"Theme - Brogrammer",
 		"VintageLines"
 	]
 }

@@ -1,4 +1,5 @@
 {
+	"bold_folder_labels": true,
 	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
 	"font_face": "PragmataPro",
 	"font_size": 13,
@@ -6,8 +7,6 @@
 	[
 	],
 	"material_theme_accent_bright-teal": true,
-	// "material_theme_accent_orange"            : true , // Set orange accent color
-	"bold_folder_labels"           : true,
 	"material_theme_accent_scrollbars": true,
 	"material_theme_bold_tab": true,
 	"material_theme_bullet_tree_indicator": true,
