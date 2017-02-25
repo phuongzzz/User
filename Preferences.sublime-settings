@@ -6,6 +6,7 @@
 	"ignored_packages":
 	[
 	],
+	"index_files": true,
 	"material_theme_accent_bright-teal": true,
 	"material_theme_accent_scrollbars": true,
 	"material_theme_bold_tab": true,
@@ -13,5 +14,11 @@
 	"overlay_scroll_bars": "enabled",
 	"theme": "Material-Theme-Darker.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"vintage_lines.force_mode": true
+	"vintage_lines.force_mode": true,
+	"match_brackets": false,
+	"match_brackets_angle": false,
+	"match_brackets_braces": false,
+	"match_brackets_content": false,
+	"match_brackets_square": false,
+	"match_tags": false
 }

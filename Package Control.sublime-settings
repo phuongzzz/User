@@ -5,8 +5,10 @@
 	],
 	"installed_packages":
 	[
+		"AdvancedNewFile",
 		"Babel",
 		"Bootstrap 3 Autocomplete",
+		"BracketHighlighter",
 		"Color Highlighter",
 		"Emmet",
 		"File Rename",
