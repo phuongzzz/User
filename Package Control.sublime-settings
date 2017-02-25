@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"Babel",
 		"Bootstrap 3 Autocomplete",
 		"Color Highlighter",
 		"Emmet",
