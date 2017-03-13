@@ -1,21 +1,14 @@
 {
 	"bold_folder_labels": true,
-	"ensure_newline_at_eof_on_save": true,
 	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
-	"font_face": "PragmataPro",
+	"ensure_newline_at_eof_on_save": true,
+	"font_face": "Source Code Pro",
 	"font_size": 12,
 	"highlight_line": true,
 	"ignored_packages":
 	[
 	],
-	"rulers":
-	[
-	],
 	"index_files": true,
-	"show_encoding": true,
-	"show_line_endings": true,
-	"trim_trailing_white_space_on_save": true,
-	"tab_size": 2,
 	"match_brackets": false,
 	"match_brackets_angle": false,
 	"match_brackets_braces": false,
@@ -24,10 +17,20 @@
 	"match_tags": false,
 	"material_theme_accent_bright-teal": true,
 	"material_theme_accent_scrollbars": true,
+	"material_theme_arrow_folders": true,
+	"material_theme_big_fileicons": true,
 	"material_theme_bold_tab": true,
 	"material_theme_bullet_tree_indicator": true,
 	"overlay_scroll_bars": "enabled",
+	"rulers":
+	[
+		80
+	],
+	"show_encoding": true,
+	"show_line_endings": true,
+	"tab_size": 2,
 	"theme": "Material-Theme-Darker.sublime-theme",
 	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
 	"vintage_lines.force_mode": true
 }
