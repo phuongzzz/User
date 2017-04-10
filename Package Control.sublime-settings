@@ -10,9 +10,11 @@
 		"Bootstrap 3 Autocomplete",
 		"BracketHighlighter",
 		"Color Highlighter",
+		"CSScomb",
 		"Emmet",
 		"ERB Snippets",
 		"File Rename",
+		"FileDiffs",
 		"GitGutter",
 		"Haml",
 		"HTML5",
@@ -21,6 +23,8 @@
 		"Rails Developer Snippets",
 		"SCSS",
 		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-rubocop",
 		"Theme - Brogrammer",
 		"VintageLines"
 	]
