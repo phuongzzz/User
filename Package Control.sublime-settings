@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"AdvancedNewFile",
 		"Babel",
 		"Bootstrap 3 Autocomplete",
@@ -26,6 +27,7 @@
 		"SublimeLinter",
 		"SublimeLinter-rubocop",
 		"Theme - Brogrammer",
-		"VintageLines"
+		"VintageLines",
+		"WordPress Snippets"
 	]
 }
