@@ -1,5 +1,6 @@
 {
 	"bold_folder_labels": true,
+	"caret_style": "solid",
 	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Palenight.tmTheme",
 	"ensure_newline_at_eof_on_save": true,
 	"font_face": "Source Code Pro Semibold",
