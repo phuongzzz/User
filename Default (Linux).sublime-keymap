@@ -2,4 +2,20 @@
     { "keys": ["ctrl+alt+n"], "command": "advanced_new_file_new"},
     { "keys": ["ctrl+shift+r"], "command": "reveal_in_side_bar"},
     { "keys": ["ctrl+shift+o"], "command": "prompt_open_folder" },
+    {
+      "keys": ["tab"],
+      "command": "chain",
+      "args": {
+        "commands": [
+          ["expand_abbreviation_by_tab"],
+          ["reg_replace", {"replacements": ["js_class"]}]
+        ]
+        },
+        "context": [
+            {"operand": "source.js", "operator": "equal", "match_all": true, "key": "selector"},
+            {"key": "preceding_text", "operator": "regex_contains", "operand": "(\\w+>\\w+|\\s(\\.?|a|div|span|p|button)\\.\\w+)", "match_all": true},
+            {"key": "selection_empty", "operator": "equal", "operand": true, "match_all": true}
+        ]
+    },
+    {"keys": ["tab"], "command": "expand_abbreviation_by_tab", "context": [] }
 ]
