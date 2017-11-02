@@ -1,16 +1,17 @@
 {
 	"bold_folder_labels": true,
+	"caret_style": "phase",
 	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
 	"ensure_newline_at_eof_on_save": true,
-	"font_face": "Source Code Pro Semibold",
-	"font_size": 11,
+	"font_face": "Source Code Pro bold",
+	"font_size": 12,
 	"highlight_line": true,
 	"ignored_packages":
 	[
 	],
 	"index_files": true,
-	"line_padding_bottom": 3,
-	"line_padding_top": 3,
+	"line_padding_bottom": 4,
+	"line_padding_top": 4,
 	"match_brackets": false,
 	"match_brackets_angle": false,
 	"match_brackets_braces": false,
@@ -23,6 +24,7 @@
 	"material_theme_big_fileicons": true,
 	"material_theme_bold_tab": true,
 	"material_theme_bullet_tree_indicator": true,
+	"material_theme_small_tab": true,
 	"overlay_scroll_bars": "enabled",
 	"rulers":
 	[
