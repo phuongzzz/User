@@ -6,7 +6,6 @@
 	"installed_packages":
 	[
 		"A File Icon",
-		"AdvancedNewFile",
 		"Babel",
 		"Bootstrap 3 Autocomplete",
 		"BracketHighlighter",
@@ -15,8 +14,6 @@
 		"CSScomb",
 		"Emmet",
 		"ERB Snippets",
-		"File Rename",
-		"FileDiffs",
 		"GitGutter",
 		"Haml",
 		"HTML5",
@@ -26,9 +23,6 @@
 		"RegReplace",
 		"SCSS",
 		"SideBarEnhancements",
-		"SublimeLinter",
-		"SublimeLinter-rubocop",
-		"VintageLines",
-		"WordPress Snippets"
+		"VintageLines"
 	]
 }
