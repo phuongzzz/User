@@ -1,10 +1,13 @@
 {
+	"ancestor_gutter": true,
 	"bold_folder_labels": true,
 	"caret_style": "phase",
 	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
 	"ensure_newline_at_eof_on_save": true,
+	"fill_conflict_area": true,
 	"font_face": "Source Code Pro bold",
 	"font_size": 14,
+	"git_path": "git",
 	"highlight_line": true,
 	"ignored_packages":
 	[
@@ -12,12 +15,14 @@
 	"index_files": true,
 	"line_padding_bottom": 5,
 	"line_padding_top": 5,
+	"live_matching": true,
 	"match_brackets": true,
 	"match_brackets_angle": true,
 	"match_brackets_braces": true,
 	"match_brackets_content": true,
 	"match_brackets_square": true,
 	"match_tags": true,
+	"matching_scope": "invalid",
 	"material_theme_accent_scrollbars": true,
 	"material_theme_accent_sky": true,
 	"material_theme_arrow_folders": true,
@@ -25,6 +30,8 @@
 	"material_theme_bold_tab": true,
 	"material_theme_bright_scrollbars": true,
 	"material_theme_bullet_tree_indicator": true,
+	"ours_gutter": true,
+	"outline_conflict_area": false,
 	"overlay_scroll_bars": "enabled",
 	"rulers":
 	[
@@ -32,18 +39,11 @@
 	],
 	"show_encoding": true,
 	"show_line_endings": true,
+	"show_only_filename": true,
 	"tab_size": 2,
+	"theirs_gutter": true,
 	"theme": "Material-Theme-Darker.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"vintage_lines.force_mode": true,
-  "git_path": "git",
-  "live_matching": true,
-  "matching_scope": "invalid",
-  "fill_conflict_area": true,
-  "outline_conflict_area": false,
-  "ours_gutter": true,
-  "theirs_gutter": true,
-  "ancestor_gutter": true,
-  "show_only_filename": true
+	"vintage_lines.force_mode": true
 }
