@@ -18,8 +18,8 @@
 	"match_brackets_content": true,
 	"match_brackets_square": true,
 	"match_tags": true,
-	"material_theme_accent_bright-teal": true,
 	"material_theme_accent_scrollbars": true,
+	"material_theme_accent_sky": true,
 	"material_theme_arrow_folders": true,
 	"material_theme_big_fileicons": true,
 	"material_theme_bold_tab": true,
@@ -36,5 +36,14 @@
 	"theme": "Material-Theme-Darker.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"vintage_lines.force_mode": true
+	"vintage_lines.force_mode": true,
+  "git_path": "git",
+  "live_matching": true,
+  "matching_scope": "invalid",
+  "fill_conflict_area": true,
+  "outline_conflict_area": false,
+  "ours_gutter": true,
+  "theirs_gutter": true,
+  "ancestor_gutter": true,
+  "show_only_filename": true
 }
