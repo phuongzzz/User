@@ -22,5 +22,6 @@
     { "keys": ["ctrl+alt+o"], "command": "keep", "args": { "keep": "ours" } },
     { "keys": ["ctrl+alt+h"], "command": "keep", "args": { "keep": "theirs" } },
     { "keys": ["ctrl+alt+a"], "command": "keep", "args": { "keep": "ancestor" } },
-    { "keys": ["ctrl+alt+c"], "command": "list_conflict_files" }
+    { "keys": ["ctrl+alt+c"], "command": "list_conflict_files" },
+    { "keys": ["ctrl+alt+t"], "command": "terminal_view_open" },
 ]

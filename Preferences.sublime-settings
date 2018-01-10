@@ -4,6 +4,7 @@
 	"caret_style": "phase",
 	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
 	"ensure_newline_at_eof_on_save": true,
+	"fade_fold_buttons": false,
 	"fill_conflict_area": true,
 	"font_face": "Source Code Pro bold",
 	"font_size": 14,
@@ -13,8 +14,8 @@
 	[
 	],
 	"index_files": true,
-	"line_padding_bottom": 5,
-	"line_padding_top": 5,
+	"line_padding_bottom": 7,
+	"line_padding_top": 7,
 	"live_matching": true,
 	"match_brackets": true,
 	"match_brackets_angle": true,
@@ -45,5 +46,6 @@
 	"theme": "Material-Theme-Darker.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"vintage_lines.force_mode": true
+	"vintage_lines.force_mode": true,
+	"copy_with_empty_selection": false
 }
