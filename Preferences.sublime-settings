@@ -3,6 +3,7 @@
 	"bold_folder_labels": true,
 	"caret_style": "phase",
 	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+	"copy_with_empty_selection": false,
 	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": false,
 	"fill_conflict_area": true,
@@ -46,6 +47,5 @@
 	"theme": "Material-Theme-Darker.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"vintage_lines.force_mode": true,
-	"copy_with_empty_selection": false
+	"vintage_lines.force_mode": true
 }
