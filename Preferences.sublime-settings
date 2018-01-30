@@ -8,11 +8,13 @@
 	"fade_fold_buttons": false,
 	"fill_conflict_area": true,
 	"font_face": "Source Code Pro bold",
-	"font_size": 14,
+	"font_size": 13,
 	"git_path": "git",
 	"highlight_line": true,
 	"ignored_packages":
 	[
+		"Rails Developer Snippets",
+		"Ruby Slim"
 	],
 	"index_files": true,
 	"line_padding_bottom": 7,
