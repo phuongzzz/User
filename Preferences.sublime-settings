@@ -1,0 +1,13 @@
+{
+	"caret_style": "phase",
+	"color_scheme": "Packages/ayu/ayu-dark.tmTheme",
+	"font_face": "Source Code Pro semibold",
+	"font_size": 13,
+	"ignored_packages":
+	[
+	],
+	"line_padding_bottom": 7,
+	"line_padding_top": 7,
+	"theme": "ayu-dark.sublime-theme",
+	"overlay_scroll_bars": "enabled",
+}
