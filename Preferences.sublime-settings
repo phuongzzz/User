@@ -1,13 +1,16 @@
 {
+	"bold_folder_labels": true,
 	"caret_style": "phase",
-	"color_scheme": "Packages/ayu/ayu-dark.tmTheme",
-	"font_face": "Source Code Pro semibold",
-	"font_size": 13,
+	"color_scheme": "Packages/ayu/ayu-mirage.tmTheme",
+	"fade_fold_buttons": false,
+	"font_face": "OperatorMono Nerd Font",
+	"font_size": 15,
+	"highlight_line": true,
 	"ignored_packages":
 	[
 	],
 	"line_padding_bottom": 7,
 	"line_padding_top": 7,
-	"theme": "ayu-dark.sublime-theme",
 	"overlay_scroll_bars": "enabled",
+	"theme": "ayu-mirage.sublime-theme"
 }
