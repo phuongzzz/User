@@ -5,7 +5,11 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"ayu",
+		"ERB Snippets",
+		"GitGutter",
+		"Material Theme",
 		"Package Control"
 	]
 }

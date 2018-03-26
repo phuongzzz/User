@@ -1,16 +1,31 @@
 {
 	"bold_folder_labels": true,
 	"caret_style": "phase",
-	"color_scheme": "Packages/ayu/ayu-mirage.tmTheme",
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+	"copy_with_empty_selection": false,
+	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": false,
 	"font_face": "OperatorMono Nerd Font",
-	"font_size": 15,
+	"font_size": 14,
 	"highlight_line": true,
 	"ignored_packages":
 	[
 	],
-	"line_padding_bottom": 7,
-	"line_padding_top": 7,
+	"index_files": true,
+	"line_padding_bottom": 8,
+	"line_padding_top": 8,
+	"material_theme_accent_scrollbars": true,
+	"material_theme_accent_sky": true,
+	"material_theme_arrow_folders": true,
+	"material_theme_big_fileicons": true,
+	"material_theme_bold_tab": true,
+	"material_theme_bright_scrollbars": true,
+	"material_theme_bullet_tree_indicator": true,
 	"overlay_scroll_bars": "enabled",
-	"theme": "ayu-mirage.sublime-theme"
+	"tab_size": 2,
+	"theme": "Material-Theme-Darker.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"vintage_lines.force_mode": true,
+	"word_wrap": true
 }
